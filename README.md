@@ -13,6 +13,9 @@
 
     It accounts for spelling mistakes in the input ngram queries and also supports for key words (entities, nouns/verbs etc) in the input ngrams by using lemmatization and stemming
     
+    To run the code:
+    python main.py —data_dir task —inpiut_query ‘nationalist, italics are, the hotel’
+    
     Suggestions are most welcome
     
     Thanks 
